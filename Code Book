@@ -1,0 +1,216 @@
+Variable Name	Description
+ "Subject"                                             	Subject no
+ "timeBodyAccelerator-mean()-XYZ"                        	Time Body Accelerator-mean-XYZ     
+ "timeBodyAccelerator-std()-XYZ"                         	Time Body Accelerator-std-XYZ     
+ "timeBodyAccelerator-mad()-XYZ"                         	Time Body Accelerator-media-XYZ     
+ "timeBodyAccelerator-max()-XYZ"                         	Time Body Accelerator-max-XYZ     
+  "timeBodyAccelerator-min()-XYZ"                         	Time Body Accelerator-min-XYZ     
+  "timeBodyAccelerator-sma()"                           	Time Body Accelerator-Signal magnitude area-XYZ 
+  "timeBodyAccelerator-energy()-XYZ"                      	Time Body Accelerator-Energy measure-XYZ 
+  "timeBodyAccelerator-iqr()-XYZ"                         	Time Body Accelerator-Interquartile range -XYZ 
+  "timeBodyAccelerator-entropy()-XYZ"                     	Time Body Accelerator-Signal entropy-XYZ 
+  "timeBodyAccelerator-arCoeff()-XYZ,1234"                   	Time Body Accelerator-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyAccelerator-correlation()-X,Y,Z"               	Time Body Accelerator-correlation coefficient between two signals-XYZ 
+ "timeGravityAccelerator-mean()-XYZ"                        	Time Gravity Accelerator-mean-XYZ     
+ "timeGravityAccelerator-std()-XYZ"                         	Time Gravity Accelerator-std-XYZ     
+ "timeGravityAccelerator-mad()-XYZ"                         	Time Gravity Accelerator-media-XYZ     
+ "timeGravityAccelerator-max()-XYZ"                         	Time Gravity Accelerator-max-XYZ     
+  "timeGravityAccelerator-min()-XYZ"                         	Time Gravity Accelerator-min-XYZ     
+  "timeGravityAccelerator-sma()"                           	Time Gravity Accelerator-Signal magnitude area-XYZ 
+  "timeGravityAccelerator-energy()-XYZ"                      	Time Gravity Accelerator-Energy measure-XYZ 
+  "timeGravityAccelerator-iqr()-XYZ"                         	Time Gravity Accelerator-Interquartile range -XYZ 
+  "timeGravityAccelerator-entropy()-XYZ"                     	Time Gravity Accelerator-Signal entropy-XYZ 
+  "timeGravityAccelerator-arCoeff()-XYZ,1234"                   	Time Gravity Accelerator-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeGravityAccelerator-correlation()-X,Y,Z"               	Time Gravity Accelerator-correlation coefficient between two signals-XYZ 
+ "timeBodyAcceleratorJerk-mean()-XYZ"                        	Time Body Accelerator Jerk-mean-XYZ     
+ "timeBodyAcceleratorJerk-std()-XYZ"                         	Time Body Accelerator Jerk-std-XYZ     
+ "timeBodyAcceleratorJerk-mad()-XYZ"                         	Time Body Accelerator Jerk-media-XYZ     
+ "timeBodyAcceleratorJerk-max()-XYZ"                         	Time Body Accelerator Jerk-max-XYZ     
+  "timeBodyAcceleratorJerk-min()-XYZ"                         	Time Body Accelerator Jerk-min-XYZ     
+  "timeBodyAcceleratorJerk-sma()"                           	Time Body Accelerator Jerk-Signal magnitude area-XYZ 
+  "timeBodyAcceleratorJerk-energy()-XYZ"                      	Time Body Accelerator Jerk-Energy measure-XYZ 
+  "timeBodyAcceleratorJerk-iqr()-XYZ"                         	Time Body Accelerator Jerk-Interquartile range -XYZ 
+  "timeBodyAcceleratorJerk-entropy()-XYZ"                     	Time Body Accelerator Jerk-Signal entropy-XYZ 
+  "timeBodyAcceleratorJerk-arCoeff()-XYZ,1234"                   	Time Body Accelerator Jerk-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyAcceleratorJerk-correlation()-X,Y,Z"               	Time Body Accelerator Jerk-correlation coefficient between two signals-XYZ 
+ "timeBodyGyroscope-mean()-XYZ"                        	Time Body Gyroscope-mean-XYZ     
+ "timeBodyGyroscope-std()-XYZ"                         	Time Body Gyroscope-std-XYZ     
+ "timeBodyGyroscope-mad()-XYZ"                         	Time Body Gyroscope-media-XYZ     
+ "timeBodyGyroscope-max()-XYZ"                         	Time Body Gyroscope-max-XYZ     
+  "timeBodyGyroscope-min()-XYZ"                         	Time Body Gyroscope-min-XYZ     
+  "timeBodyGyroscope-sma()"                           	Time Body Gyroscope-Signal magnitude area-XYZ 
+  "timeBodyGyroscope-energy()-XYZ"                      	Time Body Gyroscope-Energy measure-XYZ 
+  "timeBodyGyroscope-iqr()-XYZ"                         	Time Body Gyroscope-Interquartile range -XYZ 
+  "timeBodyGyroscope-entropy()-XYZ"                     	Time Body Gyroscope-Signal entropy-XYZ 
+  "timeBodyGyroscope-arCoeff()-XYZ,1234"                   	Time Body Gyroscope-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyGyroscope-correlation()-X,Y,Z"               	Time Body Gyroscope-correlation coefficient between two signals-XYZ 
+ "timeBodyGyroscopeJerk-mean()-XYZ"                        	Time Body Gyroscope Jerk-mean-XYZ     
+ "timeBodyGyroscopeJerk-std()-XYZ"                         	Time Body Gyroscope Jerk-std-XYZ     
+ "timeBodyGyroscopeJerk-mad()-XYZ"                         	Time Body Gyroscope Jerk-media-XYZ     
+ "timeBodyGyroscopeJerk-max()-XYZ"                         	Time Body Gyroscope Jerk-max-XYZ     
+  "timeBodyGyroscopeJerk-min()-XYZ"                         	Time Body Gyroscope Jerk-min-XYZ     
+  "timeBodyGyroscopeJerk-sma()"                           	Time Body Gyroscope Jerk-Signal magnitude area-XYZ 
+  "timeBodyGyroscopeJerk-energy()-XYZ"                      	Time Body Gyroscope Jerk-Energy measure-XYZ 
+  "timeBodyGyroscopeJerk-iqr()-XYZ"                         	Time Body Gyroscope Jerk-Interquartile range -XYZ 
+  "timeBodyGyroscopeJerk-entropy()-XYZ"                     	Time Body Gyroscope Jerk-Signal entropy-XYZ 
+  "timeBodyGyroscopeJerk-arCoeff()-XYZ,1234"                   	Time Body Gyroscope Jerk-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyGyroscopeJerk-correlation()-X,Y,Z"               	Time Body Gyroscope Jerk-correlation coefficient between two signals-XYZ 
+ "timeBodyAcceleratorMagnitude-mean()-XYZ"                        	Time Body Accelerator Magnitude-mean-XYZ     
+ "timeBodyAcceleratorMagnitude-std()-XYZ"                         	Time Body Accelerator Magnitude-std-XYZ     
+ "timeBodyAcceleratorMagnitude-mad()-XYZ"                         	Time Body Accelerator Magnitude-media-XYZ     
+ "timeBodyAcceleratorMagnitude-max()-XYZ"                         	Time Body Accelerator Magnitude-max-XYZ     
+  "timeBodyAcceleratorMagnitude-min()-XYZ"                         	Time Body Accelerator Magnitude-min-XYZ     
+  "timeBodyAcceleratorMagnitude-sma()"                           	Time Body Accelerator Magnitude-Signal magnitude area-XYZ 
+  "timeBodyAcceleratorMagnitude-energy()-XYZ"                      	Time Body Accelerator Magnitude-Energy measure-XYZ 
+  "timeBodyAcceleratorMagnitude-iqr()-XYZ"                         	Time Body Accelerator Magnitude-Interquartile range -XYZ 
+  "timeBodyAcceleratorMagnitude-entropy()-XYZ"                     	Time Body Accelerator Magnitude-Signal entropy-XYZ 
+  "timeBodyAcceleratorMagnitude-arCoeff()-XYZ,1234"                   	Time Body Accelerator Magnitude-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyAcceleratorMagnitude-correlation()-X,Y,Z"               	Time Body Accelerator Magnitude-correlation coefficient between two signals-XYZ 
+ "timeBodyAcceleratorJerkMagnitude-mean()-XYZ"                        	Time Body Accelerator  Jerk Magnitude-mean-XYZ     
+ "timeBodyAcceleratorJerkMagnitude-std()-XYZ"                         	Time Body Accelerator  Jerk Magnitude-std-XYZ     
+ "timeBodyAcceleratorJerkMagnitude-mad()-XYZ"                         	Time Body Accelerator  Jerk Magnitude-media-XYZ     
+ "timeBodyAcceleratorJerkMagnitude-max()-XYZ"                         	Time Body Accelerator  Jerk Magnitude-max-XYZ     
+  "timeBodyAcceleratorJerkMagnitude-min()-XYZ"                         	Time Body Accelerator  Jerk Magnitude-min-XYZ     
+  "timeBodyAcceleratorJerkMagnitude-sma()"                           	Time Body Accelerator  Jerk Magnitude-Signal  Jerk Magnitude area-XYZ 
+  "timeBodyAcceleratorJerkMagnitude-energy()-XYZ"                      	Time Body Accelerator  Jerk Magnitude-Energy measure-XYZ 
+  "timeBodyAcceleratorJerkMagnitude-iqr()-XYZ"                         	Time Body Accelerator  Jerk Magnitude-Interquartile range -XYZ 
+  "timeBodyAcceleratorJerkMagnitude-entropy()-XYZ"                     	Time Body Accelerator  Jerk Magnitude-Signal entropy-XYZ 
+  "timeBodyAcceleratorJerkMagnitude-arCoeff()-XYZ,1234"                   	Time Body Accelerator  Jerk Magnitude-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "timeBodyAcceleratorJerkMagnitude-correlation()-X,Y,Z"               	Time Body Accelerator  Jerk Magnitude-correlation coefficient between two signals-XYZ 
+  "timeBodyGyroscopeMagnitude-mean()"                   	Time Body Gyroscope Magnitude-mean        
+ "timeBodyGyroscopeMagnitude-std()"                    	Time Body Gyroscope Magnitude-std                    
+ "timeBodyGyroscopeMagnitude-mad()"                    	Time Body Gyroscope Magnitude-mad                   
+ "timeBodyGyroscopeMagnitude-max()"                    	Time Body Gyroscope Magnitude-max                    
+ "timeBodyGyroscopeMagnitude-min()"                    	Time Body Gyroscope Magnitude-min
+ "timeBodyGyroscopeMagnitude-sma()"                    	Time Body Gyroscope Magnitude-sma              
+ "timeBodyGyroscopeMagnitude-energy()"                 	Time Body Gyroscope Magnitude-energy       
+ "timeBodyGyroscopeMagnitude-iqr()"                    	Time Body Gyroscope Magnitude-iqr          
+ "timeBodyGyroscopeMagnitude-entropy()"                	Time Body Gyroscope Magnitude-entropy
+ "timeBodyGyroscopeMagnitude-arCoeff()1"               	Time Body Gyroscope Magnitude-arCoeff1         
+TimeBodyGyroscopeMagnitude-arCoeff()2	TimeBodyGyroscopeMagnitude-arCoeff2               
+ "timeBodyGyroscopeMagnitude-arCoeff()3"               	TimeBodyGyroscopeMagnitude-arCoeff3           
+ "timeBodyGyroscopeMagnitude-arCoeff()4"               	TimeBodyGyroscopeMagnitude-arCoeff4            
+  "timeBodyGyroscopeJerkMagnitude-mean()"                   	Time Body Gyroscope  Jerk Magnitude-mean        
+ "timeBodyGyroscopeJerkMagnitude-std()"                    	Time Body Gyroscope  Jerk Magnitude-std                    
+ "timeBodyGyroscopeJerkMagnitude-mad()"                    	Time Body Gyroscope  Jerk Magnitude-mad                   
+ "timeBodyGyroscopeJerkMagnitude-max()"                    	Time Body Gyroscope  Jerk Magnitude-max                    
+ "timeBodyGyroscopeJerkMagnitude-min()"                    	Time Body Gyroscope  Jerk Magnitude-min
+ "timeBodyGyroscopeJerkMagnitude-sma()"                    	Time Body Gyroscope  Jerk Magnitude-sma              
+ "timeBodyGyroscopeJerkMagnitude-energy()"                 	Time Body Gyroscope  Jerk Magnitude-energy       
+ "timeBodyGyroscopeJerkMagnitude-iqr()"                    	Time Body Gyroscope  Jerk Magnitude-iqr          
+ "timeBodyGyroscopeJerkMagnitude-entropy()"                	Time Body Gyroscope  Jerk Magnitude-entropy
+ "timeBodyGyroscopeJerkMagnitude-arCoeff()1"               	Time Body Gyroscope  Jerk Magnitude-arCoeff1         
+TimeBodyGyroscopeJerkMagnitude-arCoeff()2	TimeBodyGyroscope Jerk Magnitude-arCoeff2               
+ "timeBodyGyroscopeJerkMagnitude-arCoeff()3"               	TimeBodyGyroscope Jerk Magnitude-arCoeff3           
+ "timeBodyGyroscopeJerkMagnitude-arCoeff()4"               	TimeBodyGyroscope Jerk Magnitude-arCoeff4            
+ "frequencyBodyAccelerator-mean()-XYZ"                        	frequency Body Accelerator-mean-XYZ     
+ "frequencyBodyAccelerator-std()-XYZ"                         	frequency Body Accelerator-std-XYZ     
+ "frequencyBodyAccelerator-mad()-XYZ"                         	frequency Body Accelerator-media-XYZ     
+ "frequencyBodyAccelerator-max()-XYZ"                         	frequency Body Accelerator-max-XYZ     
+  "frequencyBodyAccelerator-min()-XYZ"                         	frequency Body Accelerator-min-XYZ     
+  "frequencyBodyAccelerator-sma()"                           	frequency Body Accelerator-Signal magnitude area-XYZ 
+  "frequencyBodyAccelerator-energy()-XYZ"                      	frequency Body Accelerator-Energy measure-XYZ 
+  "frequencyBodyAccelerator-iqr()-XYZ"                         	frequency Body Accelerator-Interquartile range -XYZ 
+  "frequencyBodyAccelerator-entropy()-XYZ"                     	frequency Body Accelerator-Signal entropy-XYZ 
+  "frequencyBodyAccelerator-arCoeff()-XYZ,1234"                   	frequency Body Accelerator-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyAccelerator-correlation()-X,Y,Z"               	frequency Body Accelerator-correlation coefficient between two signals-XYZ 
+ "frequencyGravityAccelerator-mean()-XYZ"                        	frequency Gravity Accelerator-mean-XYZ     
+ "frequencyGravityAccelerator-std()-XYZ"                         	frequency Gravity Accelerator-std-XYZ     
+ "frequencyGravityAccelerator-mad()-XYZ"                         	frequency Gravity Accelerator-media-XYZ     
+ "frequencyGravityAccelerator-max()-XYZ"                         	frequency Gravity Accelerator-max-XYZ     
+  "frequencyGravityAccelerator-min()-XYZ"                         	frequency Gravity Accelerator-min-XYZ     
+  "frequencyGravityAccelerator-sma()"                           	frequency Gravity Accelerator-Signal magnitude area-XYZ 
+  "frequencyGravityAccelerator-energy()-XYZ"                      	frequency Gravity Accelerator-Energy measure-XYZ 
+  "frequencyGravityAccelerator-iqr()-XYZ"                         	frequency Gravity Accelerator-Interquartile range -XYZ 
+  "frequencyGravityAccelerator-entropy()-XYZ"                     	frequency Gravity Accelerator-Signal entropy-XYZ 
+  "frequencyGravityAccelerator-arCoeff()-XYZ,1234"                   	frequency Gravity Accelerator-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyGravityAccelerator-correlation()-X,Y,Z"               	frequency Gravity Accelerator-correlation coefficient between two signals-XYZ 
+ "frequencyBodyAcceleratorJerk-mean()-XYZ"                        	frequency Body Accelerator Jerk-mean-XYZ     
+ "frequencyBodyAcceleratorJerk-std()-XYZ"                         	frequency Body Accelerator Jerk-std-XYZ     
+ "frequencyBodyAcceleratorJerk-mad()-XYZ"                         	frequency Body Accelerator Jerk-media-XYZ     
+ "frequencyBodyAcceleratorJerk-max()-XYZ"                         	frequency Body Accelerator Jerk-max-XYZ     
+  "frequencyBodyAcceleratorJerk-min()-XYZ"                         	frequency Body Accelerator Jerk-min-XYZ     
+  "frequencyBodyAcceleratorJerk-sma()"                           	frequency Body Accelerator Jerk-Signal magnitude area-XYZ 
+  "frequencyBodyAcceleratorJerk-energy()-XYZ"                      	frequency Body Accelerator Jerk-Energy measure-XYZ 
+  "frequencyBodyAcceleratorJerk-iqr()-XYZ"                         	frequency Body Accelerator Jerk-Interquartile range -XYZ 
+  "frequencyBodyAcceleratorJerk-entropy()-XYZ"                     	frequency Body Accelerator Jerk-Signal entropy-XYZ 
+  "frequencyBodyAcceleratorJerk-arCoeff()-XYZ,1234"                   	frequency Body Accelerator Jerk-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyAcceleratorJerk-correlation()-X,Y,Z"               	frequency Body Accelerator Jerk-correlation coefficient between two signals-XYZ 
+ "frequencyBodyGyroscope-mean()-XYZ"                        	frequency Body Gyroscope-mean-XYZ     
+ "frequencyBodyGyroscope-std()-XYZ"                         	frequency Body Gyroscope-std-XYZ     
+ "frequencyBodyGyroscope-mad()-XYZ"                         	frequency Body Gyroscope-media-XYZ     
+ "frequencyBodyGyroscope-max()-XYZ"                         	frequency Body Gyroscope-max-XYZ     
+  "frequencyBodyGyroscope-min()-XYZ"                         	frequency Body Gyroscope-min-XYZ     
+  "frequencyBodyGyroscope-sma()"                           	frequency Body Gyroscope-Signal magnitude area-XYZ 
+  "frequencyBodyGyroscope-energy()-XYZ"                      	frequency Body Gyroscope-Energy measure-XYZ 
+  "frequencyBodyGyroscope-iqr()-XYZ"                         	frequency Body Gyroscope-Interquartile range -XYZ 
+  "frequencyBodyGyroscope-entropy()-XYZ"                     	frequency Body Gyroscope-Signal entropy-XYZ 
+  "frequencyBodyGyroscope-arCoeff()-XYZ,1234"                   	frequency Body Gyroscope-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyGyroscope-correlation()-X,Y,Z"               	frequency Body Gyroscope-correlation coefficient between two signals-XYZ 
+ "frequencyBodyGyroscopeJerk-mean()-XYZ"                        	frequency Body Gyroscope Jerk-mean-XYZ     
+ "frequencyBodyGyroscopeJerk-std()-XYZ"                         	frequency Body Gyroscope Jerk-std-XYZ     
+ "frequencyBodyGyroscopeJerk-mad()-XYZ"                         	frequency Body Gyroscope Jerk-media-XYZ     
+ "frequencyBodyGyroscopeJerk-max()-XYZ"                         	frequency Body Gyroscope Jerk-max-XYZ     
+  "frequencyBodyGyroscopeJerk-min()-XYZ"                         	frequency Body Gyroscope Jerk-min-XYZ     
+  "frequencyBodyGyroscopeJerk-sma()"                           	frequency Body Gyroscope Jerk-Signal magnitude area-XYZ 
+  "frequencyBodyGyroscopeJerk-energy()-XYZ"                      	frequency Body Gyroscope Jerk-Energy measure-XYZ 
+  "frequencyBodyGyroscopeJerk-iqr()-XYZ"                         	frequency Body Gyroscope Jerk-Interquartile range -XYZ 
+  "frequencyBodyGyroscopeJerk-entropy()-XYZ"                     	frequency Body Gyroscope Jerk-Signal entropy-XYZ 
+  "frequencyBodyGyroscopeJerk-arCoeff()-XYZ,1234"                   	frequency Body Gyroscope Jerk-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyGyroscopeJerk-correlation()-X,Y,Z"               	frequency Body Gyroscope Jerk-correlation coefficient between two signals-XYZ 
+ "frequencyBodyAcceleratorMagnitude-mean()-XYZ"                        	frequency Body Accelerator Magnitude-mean-XYZ     
+ "frequencyBodyAcceleratorMagnitude-std()-XYZ"                         	frequency Body Accelerator Magnitude-std-XYZ     
+ "frequencyBodyAcceleratorMagnitude-mad()-XYZ"                         	frequency Body Accelerator Magnitude-media-XYZ     
+ "frequencyBodyAcceleratorMagnitude-max()-XYZ"                         	frequency Body Accelerator Magnitude-max-XYZ     
+  "frequencyBodyAcceleratorMagnitude-min()-XYZ"                         	frequency Body Accelerator Magnitude-min-XYZ     
+  "frequencyBodyAcceleratorMagnitude-sma()"                           	frequency Body Accelerator Magnitude-Signal magnitude area-XYZ 
+  "frequencyBodyAcceleratorMagnitude-energy()-XYZ"                      	frequency Body Accelerator Magnitude-Energy measure-XYZ 
+  "frequencyBodyAcceleratorMagnitude-iqr()-XYZ"                         	frequency Body Accelerator Magnitude-Interquartile range -XYZ 
+  "frequencyBodyAcceleratorMagnitude-entropy()-XYZ"                     	frequency Body Accelerator Magnitude-Signal entropy-XYZ 
+  "frequencyBodyAcceleratorMagnitude-arCoeff()-XYZ,1234"                   	frequency Body Accelerator Magnitude-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyAcceleratorMagnitude-correlation()-X,Y,Z"               	frequency Body Accelerator Magnitude-correlation coefficient between two signals-XYZ 
+ "frequencyBodyAcceleratorJerkMagnitude-mean()-XYZ"                        	frequency Body Accelerator  Jerk Magnitude-mean-XYZ     
+ "frequencyBodyAcceleratorJerkMagnitude-std()-XYZ"                         	frequency Body Accelerator  Jerk Magnitude-std-XYZ     
+ "frequencyBodyAcceleratorJerkMagnitude-mad()-XYZ"                         	frequency Body Accelerator  Jerk Magnitude-media-XYZ     
+ "frequencyBodyAcceleratorJerkMagnitude-max()-XYZ"                         	frequency Body Accelerator  Jerk Magnitude-max-XYZ     
+  "frequencyBodyAcceleratorJerkMagnitude-min()-XYZ"                         	frequency Body Accelerator  Jerk Magnitude-min-XYZ     
+  "frequencyBodyAcceleratorJerkMagnitude-sma()"                           	frequency Body Accelerator  Jerk Magnitude-Signal  Jerk Magnitude area-XYZ 
+  "frequencyBodyAcceleratorJerkMagnitude-energy()-XYZ"                      	frequency Body Accelerator  Jerk Magnitude-Energy measure-XYZ 
+  "frequencyBodyAcceleratorJerkMagnitude-iqr()-XYZ"                         	frequency Body Accelerator  Jerk Magnitude-Interquartile range -XYZ 
+  "frequencyBodyAcceleratorJerkMagnitude-entropy()-XYZ"                     	frequency Body Accelerator  Jerk Magnitude-Signal entropy-XYZ 
+  "frequencyBodyAcceleratorJerkMagnitude-arCoeff()-XYZ,1234"                   	frequency Body Accelerator  Jerk Magnitude-Autorregresion coefficients with Burg order equal to 4-XYZ 
+  "frequencyBodyAcceleratorJerkMagnitude-correlation()-X,Y,Z"               	frequency Body Accelerator  Jerk Magnitude-correlation coefficient between two signals-XYZ 
+  "frequencyBodyGyroscopeMagnitude-mean()"                   	frequency Body Gyroscope Magnitude-mean        
+ "frequencyBodyGyroscopeMagnitude-std()"                    	frequency Body Gyroscope Magnitude-std                    
+ "frequencyBodyGyroscopeMagnitude-mad()"                    	frequency Body Gyroscope Magnitude-mad                   
+ "frequencyBodyGyroscopeMagnitude-max()"                    	frequency Body Gyroscope Magnitude-max                    
+ "frequencyBodyGyroscopeMagnitude-min()"                    	frequency Body Gyroscope Magnitude-min
+ "frequencyBodyGyroscopeMagnitude-sma()"                    	frequency Body Gyroscope Magnitude-sma              
+ "frequencyBodyGyroscopeMagnitude-energy()"                 	frequency Body Gyroscope Magnitude-energy       
+ "frequencyBodyGyroscopeMagnitude-iqr()"                    	frequency Body Gyroscope Magnitude-iqr          
+ "frequencyBodyGyroscopeMagnitude-entropy()"                	frequency Body Gyroscope Magnitude-entropy
+ "frequencyBodyGyroscopeMagnitude-arCoeff()1"               	frequency Body Gyroscope Magnitude-arCoeff1         
+frequencyBodyGyroscopeMagnitude-arCoeff()2	frequencyBodyGyroscopeMagnitude-arCoeff2               
+ "frequencyBodyGyroscopeMagnitude-arCoeff()3"               	frequencyBodyGyroscopeMagnitude-arCoeff3           
+ "frequencyBodyGyroscopeMagnitude-arCoeff()4"               	frequencyBodyGyroscopeMagnitude-arCoeff4            
+  "frequencyBodyGyroscopeJerkMagnitude-mean()"                   	frequency Body Gyroscope  Jerk Magnitude-mean        
+ "frequencyBodyGyroscopeJerkMagnitude-std()"                    	frequency Body Gyroscope  Jerk Magnitude-std                    
+ "frequencyBodyGyroscopeJerkMagnitude-mad()"                    	frequency Body Gyroscope  Jerk Magnitude-mad                   
+ "frequencyBodyGyroscopeJerkMagnitude-max()"                    	frequency Body Gyroscope  Jerk Magnitude-max                    
+ "frequencyBodyGyroscopeJerkMagnitude-min()"                    	frequency Body Gyroscope  Jerk Magnitude-min
+ "frequencyBodyGyroscopeJerkMagnitude-sma()"                    	frequency Body Gyroscope  Jerk Magnitude-sma              
+ "frequencyBodyGyroscopeJerkMagnitude-energy()"                 	frequency Body Gyroscope  Jerk Magnitude-energy       
+ "frequencyBodyGyroscopeJerkMagnitude-iqr()"                    	frequency Body Gyroscope  Jerk Magnitude-iqr          
+ "frequencyBodyGyroscopeJerkMagnitude-entropy()"                	frequency Body Gyroscope  Jerk Magnitude-entropy
+ "frequencyBodyGyroscopeJerkMagnitude-arCoeff()1"               	frequency Body Gyroscope  Jerk Magnitude-arCoeff1         
+frequencyBodyGyroscopeJerkMagnitude-arCoeff()2	frequencyBodyGyroscope Jerk Magnitude-arCoeff2               
+ "frequencyBodyGyroscopeJerkMagnitude-arCoeff()3"               	frequencyBodyGyroscope Jerk Magnitude-arCoeff3           
+ "frequencyBodyGyroscopeJerkMagnitude-arCoeff()4"               	frequencyBodyGyroscope Jerk Magnitude-arCoeff4            
+ "angle(tBodyAcceleratorMean,gravity)"                 	Angle (Time Body Accelerator Mean, gravity)                
+ "angle(tBodyAcceleratorJerkMean),gravityMean)"        	Angle ( Time Body Accelerator Jerk Mean),gravity Mean)        
+ "angle(tBodyGyroscopeMean,gravityMean)"               	Angle (Time Body Gyroscope Mean, gravity Mean)               
+ "angle(tBodyGyroscopeJerkMean,gravityMean)"           	Angle (Time Body Gyroscope Jerk Mean, gravity Mean)           
+ "angle(X,gravityMean)"                                	Angle(X,gravityMean)                                
+ "angle(Y,gravityMean)"                                	Angle(Y,gravityMean)                               
+ "angle(Z,gravityMean)"                                	Angle(Z,gravityMean)                               
+ "Activity"                                 	Activity                                 
