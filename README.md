@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 # Set up your working dictionary
-WD <- "D:/Coursera courses/Getting and Cleaning Data/Course Project/UCI HAR Dataset"
+WD <- ""
 
 setwd(WD)
 
